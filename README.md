@@ -1,1 +1,1 @@
-this an exemple of using immer with useRducer hooks
+This is an example of using IMMER with useReducer hook
